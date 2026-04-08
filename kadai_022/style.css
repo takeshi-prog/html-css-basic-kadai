@@ -83,6 +83,6 @@ footer {
   }
 
   #parent {
-    display: inline-block;
+    flex-direction: column;
   }
 }
